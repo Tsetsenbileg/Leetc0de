@@ -1,3 +1,5 @@
+package Data_Structure;
+
 import java.util.HashSet;
 
 public class ContainsDuplicate {
